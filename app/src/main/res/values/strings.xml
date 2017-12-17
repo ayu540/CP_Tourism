@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CP_Tourism</string>
+
+    <string name="Historical_Places_title">Historical_Places</string>
+    <string name="Religious_Places_title">Religious_Places</string>
+    <string name="Restraunts_title_title">Restraunts</string>
+    <string name="Shopping_Hub_title">Shopping_Hub</string>
+</resources>
